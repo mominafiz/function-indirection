@@ -1,0 +1,24 @@
+{
+  "name": "function-indirection",
+  "version": "1.0.0",
+  "description": "Demo function indirection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mominafiz/function-indirection.git"
+  },
+  "keywords": [
+    "function",
+    "indirection",
+    "transparency"
+  ],
+  "author": "Afiz Momin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mominafiz/function-indirection/issues"
+  },
+  "homepage": "https://github.com/mominafiz/function-indirection#readme"
+}
